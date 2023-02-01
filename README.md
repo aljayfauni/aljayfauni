@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aljayfauni
-- 👀 I’m interested in coding web and software developement
-- 🌱 I’m currently learning nodejs and some other techs
+- 👀 I’m interested in coding web ,software and mobile app development
+- 🌱 I’m currently learning nodejs,reactnative some other techs
 
 
 <!---
